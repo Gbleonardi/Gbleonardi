@@ -1,4 +1,4 @@
-### Bem vindo!, Eu sou o Gabriel Leonardi 👋🏻
+### Bem vindo!  Eu sou o Gabriel Leonardi 👋🏻
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biel.leonari@gmail.com)
