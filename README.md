@@ -16,6 +16,5 @@
  <img align="center" alt=Javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br> <br>
 
  
- [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=blue-green)]
- 
+ ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=blue-green)
   </div>
