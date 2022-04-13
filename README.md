@@ -7,6 +7,12 @@
 
 ![Gbleonardi GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=dark)
 
+# Ferramentas
+<br>
+<img align="center" alt=Photoshop src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+<img align="center" alt=Premiere src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+<img align="center" alt=linux src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)">
+
 ## Tecnologias que utilizo
 <br>
 
