@@ -9,9 +9,12 @@
 
 # Ferramentas
 <br>
-<img align="center" alt=Photoshop src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-<img align="center" alt=Premiere src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-<img align="center" alt=linux src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)">
+
+<div style="display: inline_blovk">
+<img align="center" alt=Premiere src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
+<img align="center" alt=Photoshop src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img align="center" alt=linux src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="center" alt=linux src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 ## Tecnologias que utilizo
 <br>
@@ -22,5 +25,5 @@
  <img align="center" alt=Javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br> <br>
 
  
- ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=blue-green)
+ ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=dark)
   </div>
