@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leonardi-61556b144/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=onedark)
 
 # Ferramentas
 <br>
@@ -25,5 +25,5 @@
  <img align="center" alt=Javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br> <br>
 
  
- ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=dark)
+ ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=onedark)
   </div>
