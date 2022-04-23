@@ -1,29 +1,31 @@
-### Bem vindo!  Eu sou o Gabriel Leonardi 👋🏻
+## Bem vindo!  Eu sou o Gabriel Leonardi 👋🏻
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biel.leonari@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leonardi-61556b144/)
+<div align="center">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=onedark)
-
-# Ferramentas
-<br>
-
-<div style="display: inline_blovk">
-<img align="center" alt=Premiere src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-<img align="center" alt=Photoshop src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-<img align="center" alt=linux src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-<img align="center" alt=linux src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&layout=compact&langs_count=7&theme=onedark"/>
+ </div>
 
 # Tecnologias que utilizo
 <br>
 
 <div style="display: inline_block">
- <img align="center" alt=hmtl5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt=css3 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt=Javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br> <br>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br> <br>
 
- 
- ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&theme=onedark)
-  </div>
+# Ferramentas
+<br>
+
+<div style="display: inline_blovk">
+ <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="center" alt=linux src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="center" alt=linux src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+
+ </div>
