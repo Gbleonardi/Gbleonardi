@@ -16,7 +16,7 @@
 <img align="center" alt=linux src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img align="center" alt=linux src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-## Tecnologias que utilizo
+# Tecnologias que utilizo
 <br>
 
 <div style="display: inline_block">
