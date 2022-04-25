@@ -26,7 +26,7 @@
 <img align="center" alt=linux src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <br><br>
 
- ## Repositórios
+ ## Principais Repositórios
 <br>
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Sistema-de-escalas&theme=vision-friendly-dark)](https://github.com/Gbleonardi/Sistema-de-escalas)
