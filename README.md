@@ -30,8 +30,8 @@
  ## Principais Repositórios
 <br>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Sistema-de-escalas&theme=vision-friendly-dark)](https://github.com/Gbleonardi/Sistema-de-escalas)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Projeto-MusicDot&theme=vision-friendly-dark)](https://github.com/Gbleonardi/Projeto-MusicDot)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Sistema-de-escalas&theme=highcontrast)](https://github.com/Gbleonardi/Sistema-de-escalas)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Projeto-MusicDot&theme=highcontrast)](https://github.com/Gbleonardi/Projeto-MusicDot)
 
  
  
