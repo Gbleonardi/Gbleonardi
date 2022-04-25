@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
 
-# Tecnologias que utilizo
+## Tecnologias que utilizo
 <br>
 
 <div style="display: inline_block">
@@ -16,7 +16,7 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br> <br>
 
-# Ferramentas
+## Ferramentas
 <br>
 
 <div style="display: inline_blovk">
@@ -24,6 +24,14 @@
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="center" alt=linux src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img align="center" alt=linux src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <br><br>
 
+ ## Repositórios
+<br>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Sistema-de-escalas&theme=tokyonight)](https://github.com/Gbleonardi/Sistema-de-escalas)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Projeto-MusicDot&theme=tokyonight)](https://github.com/Gbleonardi/Projeto-MusicDot)
 
+ 
+ 
  </div>
