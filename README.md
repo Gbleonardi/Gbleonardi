@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leonardi-61556b144/)
 <div align="center">
  <a href="https://github.com/Gbleonardi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&layout=compact&langs_count=7&theme=merko"/>
  </div>
 
 ## Tecnologias que utilizo
@@ -29,8 +29,8 @@
  ## Repositórios
 <br>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Sistema-de-escalas&theme=tokyonight)](https://github.com/Gbleonardi/Sistema-de-escalas)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Projeto-MusicDot&theme=tokyonight)](https://github.com/Gbleonardi/Projeto-MusicDot)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Sistema-de-escalas&theme=merko)](https://github.com/Gbleonardi/Sistema-de-escalas)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gbleonardi&repo=Projeto-MusicDot&theme=merko)](https://github.com/Gbleonardi/Projeto-MusicDot)
 
  
  
