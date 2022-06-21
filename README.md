@@ -2,11 +2,11 @@
 💻 Apaixonado por tecnologia me aventurei pelas áreas de hardware, audiovisual e até por um período em multinacional de seguros, até me encontrar na programação.<br>
 🚀📒 Atualmente estudando node, react e banco de dados não relacionais com a finalidade de me tornar desenvolvedor Full Stack.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbe.leonardi@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leonardi-61556b144/)
+
 <div align="center">
  <a href="https://github.com/Gbleonardi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=vision-friendly-dark&include_all_commits=false"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbleonardi&show_icons=true&theme=vision-friendly-dark&include_all_commits=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbleonardi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
  </div>
 
 ## Tecnologias que utilizo
