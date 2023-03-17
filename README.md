@@ -1,7 +1,4 @@
 ## Bem vindo!  Eu sou o Gabriel Leonardi 👋🏻
-💻 Apaixonado por tecnologia me aventurei pelas áreas de hardware, audiovisual e até por um período em multinacional de seguros, até me encontrar na programação.<br>
-🚀📒 Atualmente estudando nodejs e banco de dados não relacionais com a finalidade de me tornar desenvolvedor Full Stack.
-
 
 <div align="center">
  <a href="https://github.com/Gbleonardi">
